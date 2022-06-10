@@ -1,4 +1,5 @@
-# read from questions.txt and append each line into a list
+
+
 questions = open("questions.txt", "r")  # read from questions.txt
 
 # read all lines and get rid of line break for each line, then append each stripped line to a list
